@@ -79,7 +79,7 @@ $db['default'] = array(
 	'username' => 'uvuaatg4imntzxig',
 	'password' => 'KyCWwLCDoP5HVaBZu0F6',
 	/*mi usuario tiene contraseña por el motivo que utilizo linux y no me permite acceder sin contraseña por criterios de administrador*/
-	'database' => 'lucas',
+	'database' => 'bkbsuw4ip4auwriqjuwo',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
